@@ -4,7 +4,7 @@ import os, sys, csv
 class CheckFile():
     def __init__(self):
         self.folderPath = input("Folder path: ")
-        self.filePath = input("File Path: ")
+        self.filePath = input("csv File Path: ")
         self.fileFormat = input("File Format without dot: ")
         self.folderPath = self.getPath(self.folderPath)
         self.filePath = self.getPath(self.filePath)
@@ -18,12 +18,8 @@ class CheckFile():
             for row in reader:
                 name = row["name"]
                 fileNames = os.listdir(self.folderPath)
-                #print(fileNames)
-                if str(name+"."+self.fileFormat) in fileNames:
-                    pass
-                    #print(name," Present")
-                else:
-                    print(name," Not Present")
+                if str(name+"."+self.fileFormat) not in fileNames:
+                    print(name," Missing")
 
     def getPath(self,path):
         return os.path.join(os.path.dirname(__file__),path)
