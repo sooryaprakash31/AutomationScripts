@@ -20,7 +20,8 @@ class CheckFile():
                 fileNames = os.listdir(self.folderPath)
                 #print(fileNames)
                 if str(name+"."+self.fileFormat) in fileNames:
-                    print(name," Present")
+                    pass
+                    #print(name," Present")
                 else:
                     print(name," Not Present")
 
