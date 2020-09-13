@@ -2,16 +2,13 @@
 
 function breakmode(){
     zero=0
-    read -p "Work time: " worktime
-    work=`python3 converter.py $worktime`
-
+    work=`python3 converter.py $1`
     if [ $work == $zero ] 
     then
         echo "Invalid work time"
         return
     fi
-    read -p "Break time: " breaktime  
-    break=`python3 converter.py $breaktime`
+    break=`python3 converter.py $2`
     if [ $break == $zero ] 
     then
         echo "Invalid break time"
