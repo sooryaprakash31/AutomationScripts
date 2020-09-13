@@ -11,3 +11,5 @@ Some useful automation scripts you might need
 ## 3. WhatsappBirthdayBot <br>
    Have you ever been worried about wishing someone at midnight? This script automates the process so that you can chill.
    
+## 4. TakeABreak <br>
+ Input your work interval and this script will notify you when it's break time.
