@@ -3,8 +3,9 @@ Sends a wish text to the specified contact at midnight through Whatsapp Web
 
 ## Setup
 
+- Download geckodriver from [here](https://github.com/mozilla/geckodriver/releases) and place it in the folder
 - Whatsapp Web must be synced with your account in Firefox browser
-- Copy Firefox default profile path here
+- Change Firefox default profile path [here]()
   - `about:profiles` in Firefox will list the profiles and their paths
 
 ## Execution

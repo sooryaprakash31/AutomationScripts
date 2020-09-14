@@ -2,7 +2,17 @@
 ### Some useful automation scripts you might need. <br>
 - Each folder has a separate README file with instructions.<br>
 
+## Execute from anywhere
+Add Path of the folder that contains the script files to `~/.bashrc`
 
+1. `cd ~`<br>
+ Change to home directory
+2. `export PATH="$PATH:/path/to/script/folder"`<br>
+ Add this line at the end of `.bashrc`
+3. `source .bashrc`<br>
+ Save it and source the file.<br>
+
+Now you can run the script files from anywhere.
 ## 1. CheckFilenames <br>
    Compares text in a .csv file with file names in a given path and finds the missing files
 
