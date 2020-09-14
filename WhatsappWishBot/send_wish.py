@@ -6,8 +6,8 @@ from pathlib import Path
 
 class BirthdayBot():
     def __init__(self):        
-        self.username=input("Enter Contact Name: ")
-        print("Enter Wish Text: ")
+        self.username=input("Contact Name: ")
+        print("Wish Text: ")
         self.lines = []
         while True:
             line = input()
