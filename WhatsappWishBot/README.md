@@ -5,7 +5,7 @@ Sends a wish text to the specified contact at midnight through Whatsapp Web
 
 - Download geckodriver from [here](https://github.com/mozilla/geckodriver/releases) and place it in the folder
 - Whatsapp Web must be synced with your account in Firefox browser
-- Change Firefox default profile path [here]()
+- Change Firefox default profile path [here](https://github.com/sooryaprakash31/AutomationScripts/blob/master/WhatsappWishBot/send_wish.py#L19)
   - `about:profiles` in Firefox will list the profiles and their paths
 
 ## Execution
