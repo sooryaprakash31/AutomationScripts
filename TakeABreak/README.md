@@ -1,14 +1,18 @@
 # TakeABreak
 Notifies you and suspends your screen for the specified break time periodically.
+## Requirements
+- `pip install notify2`
 
-## Execution
-
+## Setup 
 1. `cd TakeABreak`
 
 2. `sudo chmod a+x .break_script.sh`<br>
     The script requires root access for execution (suspending/waking the screen).<br>   
+3. `source .break_script.sh`
+## Execution
 
-3. `breakmode <Work-interval> <Break-interval>`<br>
+1. `cd TakeABreak`
+2. `breakmode <Work-interval> <Break-interval>`<br>
    Example:<br>
     >breakmode 40m 10m
    <table>

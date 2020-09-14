@@ -1,7 +1,9 @@
 # Automation Scripts
 ### Some useful automation scripts you might need. <br>
-- Each folder has a separate README file with instructions.<br>
 
+- Each folder has a separate README file with instructions.<br>
+## Requirements
+- [python3](https://www.python.org/downloads/)
 ## Execute from anywhere
 Add Path of the folder that contains the script files to `~/.bashrc`
 
