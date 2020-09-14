@@ -9,7 +9,7 @@
 ## 2. FileOrganizer <br>
    Organizes all the files in the given path into separate directories based on the file type (extensions) 
 
-## 3. WhatsappBirthdayBot <br>
+## 3. WhatsappWishBot <br>
    Have you ever been worried about wishing someone at midnight? This script automates the process so that you can chill.
    
 ## 4. TakeABreak <br>

@@ -1,4 +1,4 @@
-# WhatsappBirthdayBot
+# WhatsappWishBot
 Sends a wish text to the specified contact at midnight through Whatsapp Web
 
 ## Setup
