@@ -1,6 +1,6 @@
 # Automation Scripts
 ### Some useful automation scripts you might need. <br>
-- Each folder have separate README file with instructions.<br>
+- Each folder has a separate README file with instructions.<br>
 
 
 ## 1. CheckFilenames <br>
@@ -14,3 +14,6 @@
    
 ## 4. TakeABreak <br>
  Input your work interval and this script will notify you when it's break time and goes one step further by suspending your screen.
+ 
+ ## 5. InitialCommitter <br>
+ Automates the initial commit process in GitHub when you start a new project.
