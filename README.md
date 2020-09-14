@@ -1,6 +1,7 @@
-### Automation Scripts
----
-Some useful automation scripts you might need
+# Automation Scripts
+### Some useful automation scripts you might need. <br>
+- Each folder have separate README file with instructions.<br>
+
 
 ## 1. CheckFilenames <br>
    Compares text in a .csv file with file names in a given path and finds the missing files
