@@ -14,7 +14,7 @@ function breakmode(){
         echo "Invalid break time"
         return
     fi
-    echo "Carry on. I will notify you when it's break time"
+    echo "Carry on. I will notify you when it's break time..."
     while true;do
     sleep $(($work-10))
     python3 desktop_notifier.py
