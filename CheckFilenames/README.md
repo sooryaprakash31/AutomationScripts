@@ -1,5 +1,5 @@
 # CheckFileNames
-Checks if the files in a folder have names same as the specified column data in the .csv file.
+Checks if the names in the .csv file have associated files (files with same names ) in the given folder.
 
 ## Execution
 
