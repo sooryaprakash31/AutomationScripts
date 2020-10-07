@@ -19,6 +19,7 @@ function breakmode(){
     sleep $(($work-10))
     python3 desktop_notifier.py
     sleep 10s
+    gnome-screensaver-command -l
     sudo rtcwake -u -s $break -m mem
     done
 }
