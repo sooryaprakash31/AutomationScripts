@@ -3,10 +3,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 ### A list of amazing scripts that will make your life easier. <br>
-- Each folder has a separate README file with instructions. <br>
 
+As programmers, we often get crazy ideas for automating boring tasks and if you do, feel free to open an issue and let's automate it!
 
-## Requirements
+<center> <a href="https://github.com/sooryaprakash31/AutomationScripts">#AutomateAndChill</a> </center>
+
+## 💻 Languages used
 - [python3](https://www.python.org/downloads/)
 ## 📌 Quick Tip 
 ### Execute the scripts from anywhere
@@ -20,7 +22,10 @@ Add Path of the folder that contains the script files to `~/.bashrc`
  Save it and source the file.<br>
 
 Now you can run the script files from anywhere.
+
 ## 🚀 Dive in
+
+> Each folder has a separate README file with instructions.
 ## 1. [CheckFilenames](https://github.com/sooryaprakash31/AutomationScripts/tree/master/CheckFilenames) <br>
    Compares text in a .csv file with file names in a given path and finds the missing files
 
@@ -36,4 +41,5 @@ Now you can run the script files from anywhere.
  ## 5. [InitialCommitter](https://github.com/sooryaprakash31/InitialCommitter) <br>
  Automates the initial commit process in GitHub when you start a new project.
 
-
+# 👋 Author
+[Soorya Prakash](https://github.com/sooryaprakash31)
