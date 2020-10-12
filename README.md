@@ -10,6 +10,16 @@ As programmers, we often get crazy ideas for automating boring tasks and if you 
 
 ## 💻 Languages used
 - [python3](https://www.python.org/downloads/)
+
+## ⭐ How to contribute?
+- Beginner? Watch this [video](https://youtu.be/HbSjyU2vf6Y).
+- Open an issue which describes your idea!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Fork the Repo and create a Branch for any Issue that you are working upon.
+- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+- Add Docs and Screenshots to help others know what this Script is all about.
+- Having difficulty in contributing? Read the [Contribution Guide](.github/CONTRIBUTING.md) for a detailed explanation.
+
 ## 📌 Quick Tip 
 ### Execute the scripts from anywhere
 Add Path of the folder that contains the script files to `~/.bashrc`
