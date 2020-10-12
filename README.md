@@ -9,7 +9,7 @@ As programmers, we often get crazy ideas for automating boring tasks and if you 
 <center> <a href="https://github.com/sooryaprakash31/AutomationScripts">#AutomateAndChill</a> </center>
 
 ## 💻 Languages used
-- [python3](https://www.python.org/downloads/)
+- Python
 
 ## ⭐ How to contribute?
 - Beginner? Watch this [video](https://youtu.be/HbSjyU2vf6Y).
@@ -48,7 +48,7 @@ Now you can run the script files from anywhere.
 ## 4. [TakeABreak](https://github.com/sooryaprakash31/AutomationScripts/tree/master/TakeABreak) <br>
  Input your work interval and this script will notify you when it's break time and goes one step further by suspending your screen.
  
- ## 5. [InitialCommitter](https://github.com/sooryaprakash31/InitialCommitter) <br>
+ ## 5. [InitialCommitter](https://github.com/sooryaprakash31/AutomationScripts/tree/master/InitialCommitter) <br>
  Automates the initial commit process in GitHub when you start a new project.
 
 # 👋 Author
