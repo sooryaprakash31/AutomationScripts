@@ -51,5 +51,8 @@ Now you can run the script files from anywhere.
  ## 5. [InitialCommitter](https://github.com/sooryaprakash31/AutomationScripts/tree/master/InitialCommitter) <br>
  Automates the initial commit process in GitHub when you start a new project.
 
+## 6. [WhatsappGroupBot](https://github.com/sooryaprakash31/AutomationScripts/tree/master/WhatsappGroupBot) 
+   Simplifies the process of adding unknown phone numbers to a Whatsapp Group
+
 # 👋 Author
 [Soorya Prakash](https://github.com/sooryaprakash31)
