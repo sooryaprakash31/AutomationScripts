@@ -1,7 +1,6 @@
 # Automation Scripts
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+
 ### A list of amazing scripts that will make your life easier. <br>
 
 As programmers, we often get crazy ideas for automating boring tasks and if you do, feel free to open an issue and let's automate it!
@@ -10,7 +9,8 @@ As programmers, we often get crazy ideas for automating boring tasks and if you 
 
 ## 💻 Languages used
 - Python
-
+- Bash
+<!--
 ## ⭐ How to contribute?
 - Beginner? Watch this [video](https://youtu.be/HbSjyU2vf6Y).
 - Open an issue which describes your idea!
@@ -19,6 +19,7 @@ As programmers, we often get crazy ideas for automating boring tasks and if you 
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Docs and Screenshots to help others know what this Script is all about.
 - Having difficulty in contributing? Read the [Contribution Guide](.github/CONTRIBUTING.md) for a detailed explanation.
+-->
 
 ## 📌 Quick Tip 
 ### Execute the scripts from anywhere
