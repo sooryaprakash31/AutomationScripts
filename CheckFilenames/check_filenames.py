@@ -18,7 +18,7 @@ class CheckFiles():
                 name = row[self.column]
                 fileNames = os.listdir(self.folderPath)
                 if str(name+"."+self.fileFormat) not in fileNames:
-                    print(name," Missing")
+                    print(name,"-Missing")
 
     def getPath(self,path):
         return os.path.join(os.path.dirname(__file__),path)

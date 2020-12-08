@@ -2,7 +2,6 @@
 
 
 ## Requirements
-- [python3](https://www.python.org/downloads/)
 - `pip install selenium`
 - Clone of this repository
 

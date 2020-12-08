@@ -21,9 +21,9 @@ class AddToGroup:
         sleep(2)
         self.login()
         self.getContactList()
-        self.AddContacts()
+        self.addContacts()
 
-    def AddContacts(self):
+    def addContacts(self):
         self.driver.find_element_by_css_selector(".m7liR > div:nth-child(1) > div:nth-child(1) > span:nth-child(1)").click()
         sleep(2)
         self.driver.find_element_by_css_selector("div.eJ0yJ:nth-child(2) > div:nth-child(2)").click()
