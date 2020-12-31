@@ -3,7 +3,7 @@
 
 ### A list of amazing scripts that will make your life easier. <br>
 
-As programmers, we often get crazy ideas for automating boring tasks and if you do, feel free to open an issue and let's automate it!
+As programmers, we often get crazy ideas for automating boring tasks and if you do, feel free to open an issue. Let's automate it!
 
 <center> <a href="https://github.com/sooryaprakash31/AutomationScripts">#AutomateAndChill</a> </center>
 
